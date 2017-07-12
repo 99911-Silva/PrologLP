@@ -1,9 +1,10 @@
 # PrologLP
+
 Disciplina de Linguagens de Programação 2017/2 UFG
 
 Questão 1. Considere a árvore genealógica a seguir:
 ![alt text](https://github.com/karinepires6/PrologLP/blob/master/arvore.png)
-
+<p align="justify">
 a) Usando fatos, defina as relações pai e mãe. Em seguida, consulte o sistema para ver se suas definições estão corretas.
 
 b) Acrescente ao programa os fatos necessários para definir as relações homem e mulher. Por exemplo, para estabelecer que Ana é mulher e
@@ -32,3 +33,4 @@ Questão 2. Suponha que em uma rede social existem os conceitos: usuário, inter
 
 (h) Crie uma consulta que, dado um grupo, retorne todos os interesses de todos os usuários daquele grupo.
 
+</p>
